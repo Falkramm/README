@@ -14,6 +14,8 @@ Hello! My name is Matus Daniil and I am a Back End Programmer. I have experience
   - Developed and maintained back-end services using C++ and Java
   - Implemented and optimized SQL queries for efficient database usage
   - Utilized multithreading techniques for improved performance and scalability
+Note: A lot of my projects are placed in GitHub organizations like Water-inc. 
+Please check those organizations for more details about my projects.
 
 ## Education
 - BSU, Bachelor of Science in Computer Science, YYYY
